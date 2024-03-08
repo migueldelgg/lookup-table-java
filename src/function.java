@@ -4,6 +4,9 @@ import java.util.List;
 import java.util.Map;
 
 public class function {
+
+    //lookup table resolution in java
+    
     public static void main(String[] args) {
 
         String[] response = user_roles("free");
